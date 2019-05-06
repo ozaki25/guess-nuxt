@@ -2,5 +2,16 @@
   "name": "guess-nuxt",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.6.3"
+  },
+  "devDependencies": {
+    "guess-webpack": "^0.1.8"
+  }
 }
