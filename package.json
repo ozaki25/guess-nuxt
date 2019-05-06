@@ -12,6 +12,8 @@
     "nuxt": "^2.6.3"
   },
   "devDependencies": {
-    "guess-webpack": "^0.1.8"
+    "guess-webpack": "^0.1.8",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
   }
 }
